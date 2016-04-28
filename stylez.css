@@ -1,5 +1,5 @@
 body {
-	background-color: #FFC07F;
+	background-color: #02182B;
 	color: #ccc;
 	font-family: Arial;
 }
@@ -10,18 +10,19 @@ body {
 }
 
 header {
-	background-color: #4C2C72;
+	background-color: #797D81;
 	padding-top: 10px;
 }
 
 header h1 {
 	text-align: right;
-	margin-right: 10px
+	margin-right: 10px;
+	color: #000;
 }
 
 nav {
-	background-color: #797D81;
-	padding: 10px
+	background-color: #;
+	padding: 10px;
 }
 
 nav ul {
@@ -46,24 +47,25 @@ li a:hover{
 
 }
 main{
-	background-color: #A5402D;
+	background-color: #3ABCBC;
 }
 section {
 	width: 60%;
 	padding: 15px;
 	display: inline-block;
-	background-color: #F4AFB4;
+	background-color: #8FFD9B;
 }
 aside{
 	width: 35%;
 	padding: 10px;
 	float: right;
+	color: #000;
 }
 
 
 footer{
 	text-align: center;
-	background-color: #4C2C72;
+	background-color: #02182B;
 	padding: 10px;
 }
 
